@@ -3,18 +3,19 @@
 module.exports = {
   url: "https://solangegonzalez.com",
   title: "A Developer Diary",
-  tagline: "Self-taught front-end developer and UI/UX enthusiastic",
+  tagline: "UI/UX Designer and Frontend Developer",
   copyright: "© 2020 Solange Gonzalez, All rights reserved",
   author: {
     name: "Solange Gonzalez",
-    bio: "Self-taught web developer and cannabis grower",
+    bio: "Self-taught web developer and cannabis lover, always hungry to learn new things",
     contacts: {
       linkedin: "https://www.linkedin.com/in/solangegonzalez/",
+      behance: "https://www.behance.net/solangegf",
       github: "https://github.com/Solang3",
-      stackoverflow:
-        "https://stackoverflow.com/users/13349610/solange-gonzalez-ferrero?tab=profile",
       freecodecamp: "https://www.freecodecamp.org/solang3",
       twitter: "https://twitter.com/Solang3",
+      stackoverflow:
+        "https://stackoverflow.com/users/13349610/solange-gonzalez-ferrero?tab=profile",
     },
   },
   labels: [
