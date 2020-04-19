@@ -48,7 +48,7 @@ const Layout = ({ children }) => {
               paddingTop: 0,
             }}
           >
-            <main className="p-4">{children}</main>
+            <main>{children}</main>
             <footer className="text-center">
               <hr/>
               <p className="d-inline">© {new Date().getFullYear()} <a className="text-info" href="https://Solang3.github.io/">Solang3</a>, All Rights Reserved.</p>
