@@ -2,11 +2,11 @@
 tags:
   - graphql
   - gatsby
+  - CMS
 published: true
-date: 2020-01-05T13:54:07.809Z
-title: Test Post After Netlify CMS Install
+date: 2020-04-19T12:54:07.809Z
+title: Instalé Netlify CMS con Gatsby desde un repositorio de GitHub!
 ---
-*Crossing Fingers...*
+*Y vualá!*
 
-Looks like we've gotten the cms working, folks. Give it a try!
-
+Proximamente el paso a paso!
